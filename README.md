@@ -46,13 +46,7 @@
 
 ---
 
-## 🚀 Featured Projects  
 
-- 🔗 [**Project 1**](#) – Pequena descrição + tecnologias usadas.  
-- 🔗 [**Project 2**](#) – Breve resumo destacando a stack.  
-- 🔗 [**Project 3**](#) – Algo especial que você queira mostrar.  
-
----
 
 ## 🐍 GitHub Contribution Snake  
 
